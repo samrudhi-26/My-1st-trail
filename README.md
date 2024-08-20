@@ -11,3 +11,4 @@ Subsidiaries: YouTube, Google Fitbit, Mandiant, ITA Software, MORE<br/>
 Area served: International<br/>
 Founded: 4 September 1998, Menlo Park, California, United States<br/>
 Headquarters: Mountain View, California, United States<br/>
+<img src="/image.png"alt=Random image">
