@@ -14,5 +14,4 @@ Headquarters: Mountain View, California, United States<br/>
 <hr>
 <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png"alt=Here you get">
 <iframe src="https://google.com">
-  
 </iframe>
